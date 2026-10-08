@@ -1,1 +1,5 @@
+/*  Practicing using a universal selector*/
 
+*{
+    color: red;
+}
